@@ -1,6 +1,13 @@
 # Rebuttal Figures Bundle
 
-Image assets for rebuttal upload. Files are placed at the repository root to keep raw links short.
+This repository currently keeps only four FEMNIST rebuttal figures.
+
+## Files
+
+- `patience_analysis.png`
+- `step_size_analysis.png`
+- `overlap_analysis.png`
+- `FEMNIST_replace_vs_original_iid_niid_acc.png`
 
 ## Raw Link Template
 
