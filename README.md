@@ -1,6 +1,6 @@
 # Rebuttal Figures Bundle
 
-This repository currently keeps only four FEMNIST rebuttal figures.
+This repository currently keeps the FEMNIST rebuttal figures and the cross-method comparison figure.
 
 ## Files
 
@@ -8,6 +8,7 @@ This repository currently keeps only four FEMNIST rebuttal figures.
 - `step_size_analysis.png`
 - `overlap_analysis.png`
 - `prune_replace.png`
+- `GMR_on_other_MHFL_methods.png`
 
 ## Raw Link Template
 
