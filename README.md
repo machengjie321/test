@@ -7,7 +7,7 @@ This repository currently keeps only four FEMNIST rebuttal figures.
 - `patience_analysis.png`
 - `step_size_analysis.png`
 - `overlap_analysis.png`
-- `FEMNIST_replace_vs_original_iid_niid_acc.png`
+- `prune_replace.png`
 
 ## Raw Link Template
 
